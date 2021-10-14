@@ -5,7 +5,7 @@ A Next.js with TypeScript and Styled-Components
 Use `create-next-app` to use this project as boilerplate.
 
 ```
-npx create-next-app <project-name> -e https://github.com/jpedroschmitz/typescript-nextjs-starter
+npx create-next-app <project-name> -e https://github.com/thecobra159/typescript-styled-nextjs
 ```
 
 ## Running
